@@ -16,7 +16,7 @@ Then pick **Monokai Gradient** in the theme switcher, or run `omarchy theme set 
 
 - **Gradient border:** the focused window has a green → cyan → pink border at 45°.
 - **Wallpapers:** two original backgrounds, *Stripes* and *Glow*.
-- **Neovim:** uses [monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) (classic filter).
+- **Apps:** Neovim, terminals and the rest of Omarchy pick up the palette automatically.
 
 ## See also
 
